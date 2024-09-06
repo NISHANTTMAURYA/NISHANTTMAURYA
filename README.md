@@ -3,26 +3,23 @@
 <a href='https://www.linkedin.com/in/nishant-maurya-45bb86276/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='mailto:mauryanishant2005@gmail.com'><img alt="email" src="https://img.icons8.com/color/48/000000/email.png" height='18px'/></a>
 
-<br/><br/>
 
-I am a **Front-End Developer** and **Project Manager**, specializing in creating tech solutions for real-world challenges. My focus is on **building scalable web applications**, implementing **data-driven platforms**, and exploring new tech stacks to enhance software development.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+I’m a **Front-End Developer** and **Project Manager** with a passion for building technical solutions to real-world problems. I’m expanding my skillset by learning full-stack development, focusing on **scalable web applications**, **data-driven platforms** that leverage data for enhanced functionality and user experiences, and **websites with significant growth opportunities**. I’m also diving into **Django** to enhance my backend capabilities while continuously exploring new tech stacks.
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height= "400px" width="480px"/>
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Group Chat**: An anonymous chat system built with HTML, CSS, and JavaScript.
-- 🌱 &nbsp; Currently learning **React** and **TypeScript** for scalable web app development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/team4ingineers).
+- 🔭 &nbsp; I’m currently working on **MedSafe**: A unified health platform for better healthcare delivery.
+- 🌱 Currently learning **Django** and brushing up on **Frontend** skills.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/NISHANTTMAURYA).
 - 📫 &nbsp; Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nishant-maurya-45bb86276/).
 
 ---
 
 ### 🔨 Languages and Tools:
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br/><br/><br/>
 
@@ -30,15 +27,13 @@ I am a **Front-End Developer** and **Project Manager**, specializing in creating
 
 ### 📊 GitHub Stats
 
-<a href='https://github.com/team4ingineers/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![](https://github-readme-stats.vercel.app/api?username=NISHANTTMAURYA&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NISHANTTMAURYA&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NISHANTTMAURYA&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</a>
 
 ---
-
 ### 🛠️ My Projects
 
 - **[MedSafe - Health Analytics Platform](https://medsafe-gqnq.onrender.com/)**  
@@ -58,5 +53,3 @@ I am a **Front-End Developer** and **Project Manager**, specializing in creating
   Hosted on Netlify: [Group Chat](https://github.com/NISHANTTMAURYA/group-chat)
 
 ---
-
-This README now reflects all your key projects and remains technical. Let me know if any further updates are needed!
