@@ -9,7 +9,7 @@ Here's a customized GitHub README template based on your resume, which showcases
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/nishant-maurya-45bb86276/)  
 [![Resume](https://img.shields.io/badge/Resume-PDF-red)](link_to_your_resume.pdf)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/team4ingineers)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green)](https://health-analytics-tab.netlify.app/)
+
 
 ## 👋 About Me
 
