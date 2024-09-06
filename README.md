@@ -15,6 +15,7 @@ I’m a **Front-End Developer** and **Project Manager** with a passion for build
 - 🌱 Currently learning **Django** and brushing up on **Frontend** skills.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [GitHub](https://github.com/NISHANTTMAURYA).
 - 📫 &nbsp; Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nishant-maurya-45bb86276/).
+- 📜 &nbsp; Please have a look at my  [Resume](https://drive.google.com/file/d/19_NsDWlX-Vjlh1cKPoEiQoTRJWBdBXUf/view?usp=sharing).
 
 ---
 
