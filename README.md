@@ -7,7 +7,7 @@
 
 I’m a **Front-End Developer** and **Project Manager** with a passion for building technical solutions to real-world problems. I’m expanding my skillset by learning full-stack development, focusing on **scalable web applications**, **data-driven platforms** that leverage data for enhanced functionality and user experiences, and **websites with significant growth opportunities**. I’m also diving into **Django** to enhance my backend capabilities while continuously exploring new tech stacks.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height= "400px" width="480px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height= "330px" width="430px"/>
 
 ### 🧐 More About Me:
 
